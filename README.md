@@ -1,21 +1,4 @@
-
-
-<!--
-**chauhan-ankit24/chauhan-ankit24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hello, I'm Ankit Chauhan! 👋
+# Hi there, I'm Ankit Chauhan! 👋
 
 I'm a student at NIT Silchar and a passionate MERN Stack Developer. Welcome to my GitHub profile.
 
@@ -27,10 +10,10 @@ I'm a student at NIT Silchar and a passionate MERN Stack Developer. Welcome to m
 
 ## Tech Stack
 
-- 🌟 JavaScript | React | Node.js | Express
-- 🐍 Python | Django (occasionally)
-- 🧪 MongoDB | MySQL
-- 📱 Responsive Web Design | HTML | CSS | SASS
+- 🌟 JavaScript | React | Node.js | Express | <img src="https://img.icons8.com/color/24/000000/javascript.png"/> | <img src="https://img.icons8.com/color/24/000000/react.png"/> | <img src="https://img.icons8.com/color/24/000000/nodejs.png"/> | <img src="https://img.icons8.com/color/24/000000/express.png"/>
+- 🐍 Python | Django (occasionally) | <img src="https://img.icons8.com/color/24/000000/python.png"/> | <img src="https://img.icons8.com/color/24/000000/django.png"/>
+- 🧪 MongoDB | MySQL | <img src="https://img.icons8.com/color/24/000000/mongodb.png"/> | <img src="https://img.icons8.com/color/24/000000/mysql.png"/>
+- 📱 Responsive Web Design | HTML | CSS | SASS | <img src="https://img.icons8.com/color/24/000000/html-5.png"/> | <img src="https://img.icons8.com/color/24/000000/css3.png"/> | <img src="https://img.icons8.com/color/24/000000/sass.png"/>
 
 ## Let's Connect
 
