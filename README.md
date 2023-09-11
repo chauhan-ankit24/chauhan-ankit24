@@ -1,6 +1,13 @@
-# Hi there, I'm Ankit Chauhan! 👋
+<h3 align="center">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Ankit Chauhan!
+</h3>
 
-I'm a student at NIT Silchar and a passionate MERN Stack Developer. Welcome to my GitHub profile.
+Student at NIT Silchar and a passionate MERN Stack Developer. Welcome to my GitHub profile.
 
 ## About Me
 
