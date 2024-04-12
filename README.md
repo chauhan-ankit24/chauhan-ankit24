@@ -37,9 +37,9 @@
 
 <div align="center">
  <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img height="150" width="20%" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp" style="max-width: 30%; height: auto;" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=chauhan-ankit24&theme=dark&background=000000" alt="GitHub Streak" width="40%" style="margin: 0 20px;" />
-  <img height="150" width="20%" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp" style="max-width: 30%; height: auto;" />
+  <img height="200vw" width="200vw" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp" style="max-width: 30%; height: auto;" class="hide-on-mobile" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=chauhan-ankit24&theme=dark&background=000000" alt="GitHub Streak" width="400vw" style="margin: 0 20px;" />
+  <img height="200vw" width="200vw" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp" style="max-width: 30%; height: auto;" class="hide-on-mobile" />
 </div>
 
 
@@ -63,4 +63,13 @@
   [![Email](https://img.shields.io/badge/Email-akashchauhan72520%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:akashchauhan72520@gmail.com)
   
   Thanks for visiting! Let's code, learn, and innovate together.
+  
 </div>
+
+<style>
+  @media only screen and (max-width: 900px) {
+    .hide-on-mobile {
+      display: none !important;
+    }
+  }
+</style>
