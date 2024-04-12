@@ -36,11 +36,12 @@
 </div>
 
 <div align="center">
- <div style="display: flex; align-items: center; justify-content: center;">
-  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp" style="max-width: 30%; height: auto;" />
+ <div style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="150" width="20%" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp" style="max-width: 30%; height: auto;" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=chauhan-ankit24&theme=dark&background=000000" alt="GitHub Streak" width="40%" style="margin: 0 20px;" />
-  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp" style="max-width: 30%; height: auto;" />
+  <img height="150" width="20%" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp" style="max-width: 30%; height: auto;" />
 </div>
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan-ankit24&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400px" style="margin-left: 20px;" />
 </div>
