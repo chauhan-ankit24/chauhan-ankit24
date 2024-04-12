@@ -36,13 +36,7 @@
 </div>
 
 <div align="center">
- <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img height="200vw" width="200vw" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp" style="max-width: 30%; height: auto;" class="hide-on-mobile" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=chauhan-ankit24&theme=dark&background=000000" alt="GitHub Streak" width="400vw" style="margin: 0 20px;" />
-  <img height="200vw" width="200vw" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp" style="max-width: 30%; height: auto;" class="hide-on-mobile" />
-</div>
-
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan-ankit24&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400px" style="margin-left: 20px;" />
 </div>
 <br>
