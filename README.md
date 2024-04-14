@@ -52,18 +52,10 @@
 
   📫 Feel free to reach out to me anytime for collaboration, questions, or just a friendly chat.
 
-  [![GitHub](https://img.shields.io/badge/GitHub-chauhan%45ankit24-blue?style=flat-square&logo=github)](https://github.com/chauhan-ankit24)
+  [![GitHub](https://img.shields.io/badge/GitHub-chauhan&#8211-ankit24-blue?style=flat-square&logo=github)](https://github.com/chauhan-ankit24)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ankitchauhan24-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankitchauhan24)
   [![Email](https://img.shields.io/badge/Email-akashchauhan72520%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:akashchauhan72520@gmail.com)
   
   Thanks for visiting! Let's code, learn, and innovate together.
   
 </div>
-
-<style>
-  @media only screen and (max-width: 900px) {
-    .hide-on-mobile {
-      display: none !important;
-    }
-  }
-</style>
